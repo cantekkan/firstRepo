@@ -2,7 +2,7 @@
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![  ][url=https://www.hizliresim.com/2tzhpew][img]https://i.hizliresim.com/2tzhpew.PNG[/img][/url])
+![  ](https://www.hizliresim.com/2tzhpew)
 
 ## Installation
 
